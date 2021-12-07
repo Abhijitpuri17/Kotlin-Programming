@@ -12,7 +12,7 @@ package com.example.kotlintutorials
                SYNTAX : {VARIABLES -> BODY}
            */
 
-                                               //PRINT    //RETURN
+                                                             //PRINT    //RETURN
      val sum : (Int , Int, Int ) -> Int = {a , b , c  -> println(a+b+c) ; a+b+c}
     fun main()
     {
